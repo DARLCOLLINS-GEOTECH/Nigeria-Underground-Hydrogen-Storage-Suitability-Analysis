@@ -7,8 +7,6 @@ Underground hydrogen storage is considered a critical technology for enabling la
 
 The analysis combines Geographic Information Systems (GIS), Analytical Hierarchy Process (AHP), and Weighted Linear Combination techniques to generate suitability maps for potential hydrogen storage development.
 
----
-
 # Project Objectives
 
 The main objectives of this study were to:
@@ -18,7 +16,6 @@ The main objectives of this study were to:
 - Apply AHP to determine relative importance weights of evaluation criteria.
 - Generate suitability maps identifying priority areas for future hydrogen storage investigation.
 
----
 
 # Methodology
 
