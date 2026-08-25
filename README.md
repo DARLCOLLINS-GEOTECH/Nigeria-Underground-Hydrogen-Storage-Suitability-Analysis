@@ -7,7 +7,7 @@ Underground hydrogen storage is considered a critical technology for enabling la
 
 The analysis combines Geographic Information Systems (GIS), Analytical Hierarchy Process (AHP), and Weighted Linear Combination techniques to generate suitability maps for potential hydrogen storage development.
 
-# Project Objectives
+## Project Objectives
 
 The main objectives of this study were to:
 
@@ -17,11 +17,11 @@ The main objectives of this study were to:
 - Generate suitability maps identifying priority areas for future hydrogen storage investigation.
 
 
-# Methodology
+## Methodology
 
 The workflow consisted of five major stages:
 
-## 1. Data Collection
+### 1. Data Collection
 
 Multiple spatial datasets were collected, including:
 
@@ -36,9 +36,8 @@ Multiple spatial datasets were collected, including:
 - Land Use/Land Cover (LULC)
 - Protected areas
 
----
 
-## 2. Data Processing and Harmonisation
+### 2. Data Processing and Harmonisation
 
 Spatial datasets were processed using:
 
@@ -51,9 +50,8 @@ Spatial datasets were processed using:
 
 All datasets were harmonised using WGS 84 UTM Zone 32N at a 100 m spatial resolution.
 
----
 
-## 3. Multi-Criteria Decision Analysis
+### 3. Multi-Criteria Decision Analysis
 
 Nine suitability criteria were evaluated:
 
@@ -69,9 +67,8 @@ The Analytical Hierarchy Process (AHP) was applied to assign criterion weights.
 
 The consistency ratio achieved was 0.012, demonstrating acceptable consistency in the weighting process.
 
----
 
-## 4. Suitability Modelling
+### 4. Suitability Modelling
 
 A weighted linear combination approach was used to combine the reclassified spatial layers.
 
@@ -86,9 +83,8 @@ Suitability classes were generated:
 
 Protected areas were applied as exclusion constraints.
 
----
 
-# Key Findings
+## Key Findings
 
 The analysis identified significant underground hydrogen storage potential across Nigeria.
 
@@ -107,11 +103,10 @@ Priority regions identified include:
 
 The Niger Delta emerged as the highest priority region due to favourable geology, existing energy infrastructure, and proximity to industrial hubs.
 
----
 
-# Tools and Technologies
+## Tools and Technologies
 
-## GIS & Spatial Analysis
+### GIS & Spatial Analysis
 
 - ArcGIS Pro 3.5
 - Spatial Analyst Extension
@@ -119,12 +114,12 @@ The Niger Delta emerged as the highest priority region due to favourable geology
 - Weighted Overlay Analysis
 - Suitability Mapping
 
-## Data Analysis
+### Data Analysis
 
 - Microsoft Excel
 - Analytical Hierarchy Process (AHP)
 
-## Data Sources
+### Data Sources
 
 Datasets were obtained from:
 
@@ -136,7 +131,5 @@ Datasets were obtained from:
 - Oil and Gas Infrastructure Mapping (OGIM)
 - ESRI Sentinel-2 Land Cover Dataset
 
----
 
-# Repository Structure
 
