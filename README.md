@@ -1,0 +1,2 @@
+# Nigeria-Underground-Hydrogen-Storage-Suitability-Analysis
+A GIS-based Multi-Criteria Decision Analysis (MCDA) project for identifying and prioritising potential underground hydrogen storage sites in Nigeria. The study integrates geological, infrastructural, environmental, and spatial datasets using Analytical Hierarchy Process (AHP) and weighted overlay analysis to support energy transition planning.
